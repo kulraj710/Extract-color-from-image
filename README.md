@@ -6,4 +6,4 @@ This is a simple python script which utilizes Colorthief library to dynamically 
 
 # Try this app
 
-[Here]("https://app.daisi.io/daisies/649fa394-d34d-46e3-b51c-540b63170d17/streamlit")
+[Here](https://app.daisi.io/daisies/649fa394-d34d-46e3-b51c-540b63170d17/streamlit)
